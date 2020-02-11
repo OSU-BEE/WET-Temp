@@ -1,2 +1,2 @@
 # WET-Temp
-WET-Temp streatm temperature model
+WET-Temp Stream Temperature Model
